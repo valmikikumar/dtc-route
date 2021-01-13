@@ -1,0 +1,16 @@
+# Compiled Source  
+*.pyc
+
+# Files
+local_settings.py
+dtcbusroutes/email_settings.py
+
+# Directories
+ve/
+
+# Temp Files
+*.py~
+*.html~
+*.*~
+*~
+*.go*~
